@@ -8,8 +8,6 @@ This video presents a structured code review of my CS 340 CRUD Python module, co
 ▶️ Watch the code review video here:
 [Code Review Video – Milestone One](https://youtu.be/ySfZGDAcgLs?si=s7VTAb40aVGH4UC1)
 
----
-
 ## Enhancement One: Software Design and Engineering (Milestone Two)
 
 This enhancement builds upon the original CRUD Python module reviewed in Milestone One.  
