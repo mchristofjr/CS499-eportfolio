@@ -99,7 +99,7 @@ These updates reflect practical database optimization strategies used in real-wo
 
 ### Narrative
 **Milestone Four Narrative – Databases**  
-[View the narrative](Milestone%204%20-%20MChristof/CS%20499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
+[View the narrative](Milestone%204%20-%20MChristof/CS499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
 
 ## Final Reflection
 
