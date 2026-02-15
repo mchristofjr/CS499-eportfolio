@@ -55,5 +55,3 @@ These refinements demonstrate the practical application of algorithms and data s
 
 📘 **Milestone Three Narrative – Algorithms and Data Structures**  
 [View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.docx)
-
----
