@@ -49,7 +49,7 @@ These refinements demonstrate the practical application of algorithms and data s
 ### Enhanced Artifact
 
 📄 **Enhanced CRUD Python Module – Algorithms & Data Structures Version**  
-[View the enhanced code](Milestone%203%20-%20MChristof/ENHANCED_CRUD_Python_Module.py)
+[View the enhanced code](Milestone%203%20-%20MChristof/Enhanced%20Files/ENHANCED_CRUD_Python_Module.py)
 
 ### Narrative
 
