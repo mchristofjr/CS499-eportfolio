@@ -6,16 +6,12 @@ Bachelor of Science in Computer Science
 
 I am an aspiring software engineer with a focus on backend systems, structured problem solving, and performance-conscious design. This portfolio reflects my growth in applying software engineering principles across progressively enhanced artifacts within my Computer Science program.
 
----
-
 ## Professional Self-Assessment
 
 This reflection summarizes my growth across the Computer Science program and demonstrates how my capstone artifacts collectively meet the program learning outcomes.
 
 Professional Self-Assessment  
 [View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.docx)
-
----
 
 ## Portfolio Overview
 
@@ -28,16 +24,12 @@ This portfolio represents the culmination of my Computer Science degree, showcas
 - Enhancement Two – Algorithms & Data Structures  
 - Enhancement Three – Databases  
 
----
-
 ## Code Review Video (Milestone One)
 
 This video presents a structured code review of my CS 340 CRUD Python module, completed as part of CS 499. The review evaluates software design decisions, error handling, readability, and planned enhancements aligned with course outcomes.
 
 Watch the code review video:  
 [Code Review Video – Milestone One](https://youtu.be/ySfzGDACgLs?si=s7VTAb40aVGH4UC1)
-
----
 
 ## Enhancement One: Software Design and Engineering (Milestone Two)
 
@@ -60,8 +52,6 @@ Enhanced CRUD Python Module
 
 Milestone Two Narrative – Software Design and Engineering  
 [View the narrative](Milestone%202%20-%20MChristof/Milestone%20Two%20Narrative%20-%20MChristof.docx)
-
----
 
 ## Enhancement Two: Algorithms and Data Structures (Milestone Three)
 
@@ -86,8 +76,6 @@ Enhanced CRUD Python Module – Algorithms & Data Structures Version
 
 Milestone Three Narrative – Algorithms and Data Structures  
 [View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.docx)
-
----
 
 ## Enhancement Three: Databases (Milestone Four)
 
@@ -122,8 +110,6 @@ Original Dashboard Notebook
 
 Milestone Four Narrative – Databases  
 [View the narrative](Milestone%204%20-%20MChristof/CS%20499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
-
----
 
 ## Final Reflection
 
