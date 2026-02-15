@@ -55,3 +55,36 @@ These refinements demonstrate the practical application of algorithms and data s
 
 📘 **Milestone Three Narrative – Algorithms and Data Structures**  
 [View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.docx)
+
+## Enhancement Three: Databases (Milestone Four)
+
+This enhancement focuses on improving database interaction patterns and performance within my CS 340 Animal Shelter CRUD module. The goal was to strengthen data access efficiency and reliability by adding query shaping features and database performance considerations while preserving the artifact’s original purpose.
+
+### Key Database Improvements
+
+- Added projection support to reduce unnecessary data transfer and improve read efficiency
+- Added optional sorting and limiting to prevent accidental full-collection reads during analysis
+- Added index creation support to improve performance for common dashboard query fields
+- Improved predictable result handling to support UI and dashboard usage patterns
+
+### Enhanced Artifact
+
+📄 **Enhanced CRUD Python Module – Databases Version**  
+[View the enhanced code](Milestone%204%20-%20MChristof/Enhanced%20Files/ENHANCED_CRUD_Python_Module.py)
+
+📓 **Enhanced Dashboard Notebook**  
+[View the enhanced notebook](Milestone%204%20-%20MChristof/Enhanced%20Files/ENHANCEDProjectTwoDashboard.ipynb)
+
+### Original Artifact Files
+
+📄 **Original CRUD Python Module**  
+[View the original code](Milestone%204%20-%20MChristof/Original%20Files/CRUD_Python_Module.py)
+
+📓 **Original Dashboard Notebook**  
+[View the original notebook](Milestone%204%20-%20MChristof/Original%20Files/ProjectTwoDashboard.ipynb)
+
+### Narrative
+
+📘 **Milestone Four Narrative – Databases**  
+[View the narrative](Milestone%204%20-%20MChristof/CS499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
+
