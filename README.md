@@ -6,6 +6,17 @@ Bachelor of Science in Computer Science
 
 I am an aspiring software engineer with a focus on backend systems, structured problem solving, and performance-conscious design. This portfolio reflects my growth in applying software engineering principles across progressively enhanced artifacts within my Computer Science program.
 
+---
+
+## Professional Self-Assessment
+
+This reflection summarizes my growth across the Computer Science program and demonstrates how my capstone artifacts collectively meet the program learning outcomes.
+
+Professional Self-Assessment  
+[View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.docx)
+
+---
+
 ## Portfolio Overview
 
 This portfolio represents the culmination of my Computer Science degree, showcasing progressive artifact enhancements across software design, algorithm refinement, and database optimization. Each milestone demonstrates applied technical growth and alignment with program learning outcomes.
@@ -16,7 +27,8 @@ This portfolio represents the culmination of my Computer Science degree, showcas
 - Enhancement One – Software Design & Engineering  
 - Enhancement Two – Algorithms & Data Structures  
 - Enhancement Three – Databases  
-- Professional Self-Assessment  
+
+---
 
 ## Code Review Video (Milestone One)
 
@@ -24,6 +36,8 @@ This video presents a structured code review of my CS 340 CRUD Python module, co
 
 Watch the code review video:  
 [Code Review Video – Milestone One](https://youtu.be/ySfzGDACgLs?si=s7VTAb40aVGH4UC1)
+
+---
 
 ## Enhancement One: Software Design and Engineering (Milestone Two)
 
@@ -46,6 +60,8 @@ Enhanced CRUD Python Module
 
 Milestone Two Narrative – Software Design and Engineering  
 [View the narrative](Milestone%202%20-%20MChristof/Milestone%20Two%20Narrative%20-%20MChristof.docx)
+
+---
 
 ## Enhancement Two: Algorithms and Data Structures (Milestone Three)
 
@@ -71,6 +87,8 @@ Enhanced CRUD Python Module – Algorithms & Data Structures Version
 Milestone Three Narrative – Algorithms and Data Structures  
 [View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.docx)
 
+---
+
 ## Enhancement Three: Databases (Milestone Four)
 
 This enhancement focuses on improving database interaction patterns and performance within the CS 340 Animal Shelter CRUD module and associated dashboard. The goal was to strengthen data access efficiency and reliability by adding query shaping features and database performance considerations while preserving the artifact’s original purpose.
@@ -87,34 +105,28 @@ These updates reflect practical database optimization strategies used in real-wo
 ### Enhanced Artifacts
 
 Enhanced CRUD Python Module – Databases Version  
-[View the enhanced code](Milestone%203%20-%20MChristof/Enhanced%20Files/ENHANCED_CRUD_Python_Module.py)
+[View the enhanced code](Milestone%204%20-%20MChristof/Enhanced%20Files/ENHANCED_CRUD_Python_Module.py)
 
 Enhanced Dashboard Notebook  
-[View the enhanced notebook](Milestone%203%20-%20MChristof/Enhanced%20Files/ENHANCEDProjectTwoDashboard.ipynb)
+[View the enhanced notebook](Milestone%204%20-%20MChristof/Enhanced%20Files/ENHANCEDProjectTwoDashboard.ipynb)
 
 ### Original Artifact Files
 
 Original CRUD Python Module  
-[View the original code](Milestone%203%20-%20MChristof/Original%20Files/CRUD_Python_Module.py)
+[View the original code](Milestone%204%20-%20MChristof/Original%20Files/CRUD_Python_Module.py)
 
 Original Dashboard Notebook  
-[View the original notebook](Milestone%203%20-%20MChristof/Original%20Files/ProjectTwoDashboard.ipynb)
+[View the original notebook](Milestone%204%20-%20MChristof/Original%20Files/ProjectTwoDashboard.ipynb)
 
 ### Narrative
 
 Milestone Four Narrative – Databases  
-[View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
+[View the narrative](Milestone%204%20-%20MChristof/CS%20499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
 
-## Professional Self-Assessment
-
-This reflection summarizes my growth across the Computer Science program and demonstrates how my capstone artifacts collectively meet the program learning outcomes.
-
-Professional Self-Assessment  
-[View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.docx)
+---
 
 ## Final Reflection
 
 This capstone portfolio demonstrates the evolution of a single artifact across multiple technical dimensions—software engineering practices, algorithm refinement, and database optimization. Through iterative enhancement, I strengthened code quality, structural clarity, and system performance while maintaining functional integrity.
 
 This work represents both technical competency and professional readiness as I transition from academic study into the field of software development.
-****
