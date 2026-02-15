@@ -88,3 +88,11 @@ This enhancement focuses on improving database interaction patterns and performa
 📘 **Milestone Four Narrative – Databases**  
 [View the narrative](Milestone%204%20-%20MChristof/CS499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
 
+## Professional Self-Assessment
+
+This reflection summarizes my growth across the Computer Science program and demonstrates how my capstone artifacts meet the program learning outcomes.
+
+📘 **Professional Self-Assessment**  
+[View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.docx)
+
+
