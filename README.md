@@ -103,6 +103,6 @@ These updates reflect practical database optimization strategies used in real-wo
 
 ## Final Reflection
 
-This capstone portfolio demonstrates the evolution of a single artifact across multiple technical dimensions—software engineering practices, algorithm refinement, and database optimization. Through iterative enhancement, I strengthened code quality, structural clarity, and system performance while maintaining functional integrity.
+This capstone portfolio demonstrates the evolution of a single artifact across multiple technical dimensions; software engineering practices, algorithm refinement, and database optimization. Through iterative enhancement, I strengthened code quality, structural clarity, and system performance while maintaining functional integrity.
 
 This work represents both technical competency and professional readiness as I transition from academic study into the field of software development.
