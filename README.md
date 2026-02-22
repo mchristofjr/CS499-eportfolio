@@ -29,7 +29,7 @@ This portfolio represents the culmination of my Computer Science degree, showcas
 This video presents a structured code review of my CS 340 CRUD Python module, completed as part of CS 499. The review evaluates software design decisions, error handling, readability, and planned enhancements aligned with course outcomes.
 
 Watch the code review video:  
-[Code Review Video – Milestone One](https://youtu.be/ySfzGDACgLs?si=s7VTAb40aVGH4UC1)
+[Code Review Video – Milestone One](https://youtu.be/ySfZGDAcgLs)
 
 ## Enhancement One: Software Design and Engineering (Milestone Two)
 
