@@ -11,7 +11,7 @@ I am an aspiring software engineer with a focus on backend systems, structured p
 This reflection summarizes my growth across the Computer Science program and demonstrates how my capstone artifacts collectively meet the program learning outcomes.
 
 **Professional Self-Assessment**  
-[View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.docx)
+[View the self-assessment](Professional%20Self%20Assessment%20-%20MChristof.pdf)
 
 ## Portfolio Overview
 
@@ -48,7 +48,7 @@ This enhancement builds upon the original CRUD Python module reviewed in Milesto
 
 ### Narrative
 **Milestone Two Narrative – Software Design and Engineering**  
-[View the narrative](Milestone%202%20-%20MChristof/Milestone%20Two%20Narrative%20-%20MChristof.docx)
+[View the narrative](Milestone%202%20-%20MChristof/Milestone%20Two%20Narrative%20-%20MChristof.pdf)
 
 ## Enhancement Two: Algorithms and Data Structures (Milestone Three)
 
@@ -69,7 +69,7 @@ These refinements demonstrate the practical application of algorithms and data s
 
 ### Narrative
 **Milestone Three Narrative – Algorithms and Data Structures**  
-[View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.docx)
+[View the narrative](Milestone%203%20-%20MChristof/CS%20499%20Milestone%20Three%20Narrative%20-%20MChristof.pdf)
 
 ## Enhancement Three: Databases (Milestone Four)
 
@@ -99,7 +99,7 @@ These updates reflect practical database optimization strategies used in real-wo
 
 ### Narrative
 **Milestone Four Narrative – Databases**  
-[View the narrative](Milestone%204%20-%20MChristof/CS499%20Milestone%20Four%20Narrative%20-%20MChristof.docx)
+[View the narrative](Milestone%204%20-%20MChristof/CS499%20Milestone%20Four%20Narrative%20-%20MChristof.pdf)
 
 ## Final Reflection
 
